@@ -1,5 +1,5 @@
 /**
- * Need update so it doesn't rely on copy-to-clipboard
+ * TODO: use the browser APIs, so it doesn't rely on copy-to-clipboard
  */
 
 import copy from "copy-to-clipboard";
