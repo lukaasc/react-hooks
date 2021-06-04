@@ -1,3 +1,7 @@
+/**
+ * Need update so it doesn't rely on copy-to-clipboard
+ */
+
 import copy from "copy-to-clipboard";
 import { useEffect, useRef, useState } from "react";
 
